@@ -1,9 +1,9 @@
-# Projet Java - Tower Defense Console Simple
+# Projet Java - The Farm Console Simple
 
 Ce projet a été réalisé dans le cadre de la **Licence MIASHS, Première Année (L1)**.
 
 ## Description
-Il s'agit d'une version **très simplifiée** du jeu de *Tower Defense*. 
+Jeu de simulation de ferme textuel fonctionnant intégralement en console (Terminal). Le joueur doit gérer ses plantations, récolter ses produits et les revendre sur un marché local aux prix fluctuants.
 
 ## Exécution
 Pour exécuter ce programme (nécessite un environnement Java JRE/JDK) :
